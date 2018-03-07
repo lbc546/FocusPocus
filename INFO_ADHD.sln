@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INFO_ADHD", "INFO_ADHD.csproj", "{A2A7DF52-A2C4-240A-1005-D46D1A7682FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A7DF52-A2C4-240A-1005-D46D1A7682FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A7DF52-A2C4-240A-1005-D46D1A7682FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A7DF52-A2C4-240A-1005-D46D1A7682FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A7DF52-A2C4-240A-1005-D46D1A7682FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
